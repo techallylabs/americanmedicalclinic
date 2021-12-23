@@ -1,0 +1,3899 @@
+@font-face {
+  font-family: 'spa-yoga';
+  src:  url('../fonts/spa-yoga.eot?b574so');
+  src:  url('../fonts/spa-yoga.eot?b574so#iefix') format('embedded-opentype'),
+    url('../fonts/spa-yoga.ttf?b574so') format('truetype'),
+    url('../fonts/spa-yoga.woff?b574so') format('woff'),
+    url('../fonts/spa-yoga.svg?b574so#spa-yoga') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="spa-yoga-"], [class*=" spa-yoga-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'spa-yoga' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.spa-yoga-essential-oil-7:before {
+  content: "\e900";
+}
+.spa-yoga-essential-oil-6:before {
+  content: "\e901";
+}
+.spa-yoga-candle-1:before {
+  content: "\e902";
+}
+.spa-yoga-essential-oil-5:before {
+  content: "\e903";
+}
+.spa-yoga-essential-oil-4:before {
+  content: "\e904";
+}
+.spa-yoga-essential-oil-3:before {
+  content: "\e905";
+}
+.spa-yoga-bamboo:before {
+  content: "\e906";
+}
+.spa-yoga-scent:before {
+  content: "\e907";
+}
+.spa-yoga-flower:before {
+  content: "\e908";
+}
+.spa-yoga-hot-stones:before {
+  content: "\e909";
+}
+.spa-yoga-bed:before {
+  content: "\e90a";
+}
+.spa-yoga-towel:before {
+  content: "\e90b";
+}
+.spa-yoga-bathtub-2:before {
+  content: "\e90c";
+}
+.spa-yoga-bathtub-1:before {
+  content: "\e90d";
+}
+.spa-yoga-bathtub:before {
+  content: "\e90e";
+}
+.spa-yoga-incense:before {
+  content: "\e90f";
+}
+.spa-yoga-relax:before {
+  content: "\e910";
+}
+.spa-yoga-essential-oil-2:before {
+  content: "\e911";
+}
+.spa-yoga-candle:before {
+  content: "\e912";
+}
+.spa-yoga-essential-oil-1:before {
+  content: "\e913";
+}
+.spa-yoga-lotus-2:before {
+  content: "\e914";
+}
+.spa-yoga-soap:before {
+  content: "\e915";
+}
+.spa-yoga-essential-oil:before {
+  content: "\e916";
+}
+.spa-yoga-lotus-1:before {
+  content: "\e917";
+}
+.spa-yoga-stones-2:before {
+  content: "\e918";
+}
+.spa-yoga-stones-1:before {
+  content: "\e919";
+}
+.spa-yoga-stones:before {
+  content: "\e91a";
+}
+.spa-yoga-spa:before {
+  content: "\e91b";
+}
+.spa-yoga-lotus:before {
+  content: "\e91c";
+}
+.spa-yoga-candles:before {
+  content: "\e91d";
+}
+
+
+@font-face {
+  font-family: 'social-icons';
+  src:  url('../fonts/social-icons.eot?7kysr7');
+  src:  url('../fonts/social-icons.eot?7kysr7#iefix') format('embedded-opentype'),
+    url('../fonts/social-icons.ttf?7kysr7') format('truetype'),
+    url('../fonts/social-icons.woff?7kysr7') format('woff'),
+    url('../fonts/social-icons.svg?7kysr7#social-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="social-icons-"], [class*=" social-icons-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'social-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.social-icons-on-social-logo:before {
+  content: "\e900";
+}
+.social-icons-social-logo:before {
+  content: "\e901";
+}
+.social-icons-px-logo:before {
+  content: "\e902";
+}
+.social-icons-px-logo-1:before {
+  content: "\e903";
+}
+.social-icons-ads-of-the-world-logo:before {
+  content: "\e904";
+}
+.social-icons-ads-scuttlepad-logo:before {
+  content: "\e905";
+}
+.social-icons-arte10-logo:before {
+  content: "\e906";
+}
+.social-icons-ashley-madison-social-logo:before {
+  content: "\e907";
+}
+.social-icons-asmallworld-logo:before {
+  content: "\e908";
+}
+.social-icons-badoo-social-logotype:before {
+  content: "\e909";
+}
+.social-icons-baidu-logo:before {
+  content: "\e90a";
+}
+.social-icons-bananity-social-logo:before {
+  content: "\e90b";
+}
+.social-icons-bandcamp-logo:before {
+  content: "\e90c";
+}
+.social-icons-bebo-social-logotype:before {
+  content: "\e90d";
+}
+.social-icons-behance-logo:before {
+  content: "\e90e";
+}
+.social-icons-bettercodes-logo:before {
+  content: "\e90f";
+}
+.social-icons-bisquits-logo:before {
+  content: "\e910";
+}
+.social-icons-bitacoras-logo:before {
+  content: "\e911";
+}
+.social-icons-bitacoras-symbol:before {
+  content: "\e912";
+}
+.social-icons-blackplanet-logotype:before {
+  content: "\e913";
+}
+.social-icons-blogbus-logo:before {
+  content: "\e914";
+}
+.social-icons-blogger-logotype:before {
+  content: "\e915";
+}
+.social-icons-bloson-logo:before {
+  content: "\e916";
+}
+.social-icons-bola-a-logo:before {
+  content: "\e917";
+}
+.social-icons-buzznet-logo:before {
+  content: "\e918";
+}
+.social-icons-cafemom-logo:before {
+  content: "\e919";
+}
+.social-icons-care2-logo:before {
+  content: "\e91a";
+}
+.social-icons-caringbridge-logo:before {
+  content: "\e91b";
+}
+.social-icons-cellufun-logo:before {
+  content: "\e91c";
+}
+.social-icons-citeulike-logo:before {
+  content: "\e91d";
+}
+.social-icons-classmates-logotype-symbol:before {
+  content: "\e91e";
+}
+.social-icons-club-dante-social-logotype:before {
+  content: "\e91f";
+}
+.social-icons-coderwall-logo:before {
+  content: "\e920";
+}
+.social-icons-colourlovers-logo:before {
+  content: "\e921";
+}
+.social-icons-coroflot:before {
+  content: "\e922";
+}
+.social-icons-couchsurfing-logo:before {
+  content: "\e923";
+}
+.social-icons-creattica-logo:before {
+  content: "\e924";
+}
+.social-icons-cross-tv-logo:before {
+  content: "\e925";
+}
+.social-icons-dailymotion-logo:before {
+  content: "\e926";
+}
+.social-icons-deezer-logo:before {
+  content: "\e927";
+}
+.social-icons-delicious-logotype-of-squares:before {
+  content: "\e928";
+}
+.social-icons-desarrollo-web-or-web-development-logo:before {
+  content: "\e929";
+}
+.social-icons-designrelated-logotype:before {
+  content: "\e92a";
+}
+.social-icons-deviantart-logo:before {
+  content: "\e92b";
+}
+.social-icons-digg-logo:before {
+  content: "\e92c";
+}
+.social-icons-digg-logotype:before {
+  content: "\e92d";
+}
+.social-icons-divoblogger-logo:before {
+  content: "\e92e";
+}
+.social-icons-doodle-ly-logotype:before {
+  content: "\e92f";
+}
+.social-icons-douban-logo:before {
+  content: "\e930";
+}
+.social-icons-dribbble-logo:before {
+  content: "\e931";
+}
+.social-icons-ebay-logo:before {
+  content: "\e932";
+}
+.social-icons-etsy-logo:before {
+  content: "\e933";
+}
+.social-icons-everloop-logo:before {
+  content: "\e934";
+}
+.social-icons-ex-fm-logo:before {
+  content: "\e935";
+}
+.social-icons-eyeem-logo:before {
+  content: "\e936";
+}
+.social-icons-facebook-logo:before {
+  content: "\e937";
+}
+.social-icons-fanlala-logo:before {
+  content: "\e938";
+}
+.social-icons-flickr-logo:before {
+  content: "\e939";
+}
+.social-icons-flipkart-logo:before {
+  content: "\e93a";
+}
+.social-icons-flixster-logo:before {
+  content: "\e93b";
+}
+.social-icons-fod-social-logo:before {
+  content: "\e93c";
+}
+.social-icons-fontli-logo:before {
+  content: "\e93d";
+}
+.social-icons-fotki-logo:before {
+  content: "\e93e";
+}
+.social-icons-fotolog-social-network-logo:before {
+  content: "\e93f";
+}
+.social-icons-foursquare-logo:before {
+  content: "\e940";
+}
+.social-icons-friendster-logo:before {
+  content: "\e941";
+}
+.social-icons-funny-or-die-logo:before {
+  content: "\e942";
+}
+.social-icons-gaiaonline-logo:before {
+  content: "\e943";
+}
+.social-icons-gather-logo:before {
+  content: "\e944";
+}
+.social-icons-geni-social-logo:before {
+  content: "\e945";
+}
+.social-icons-geonick-logo:before {
+  content: "\e946";
+}
+.social-icons-glipho-logo:before {
+  content: "\e947";
+}
+.social-icons-glogster-logo:before {
+  content: "\e948";
+}
+.social-icons-google-plus-social-logotype:before {
+  content: "\e949";
+}
+.social-icons-grooveshark-logotype:before {
+  content: "\e94a";
+}
+.social-icons-grou-ps-logo:before {
+  content: "\e94b";
+}
+.social-icons-habbo-logotype:before {
+  content: "\e94c";
+}
+.social-icons-habbo-logotype-1:before {
+  content: "\e94d";
+}
+.social-icons-heello-logo:before {
+  content: "\e94e";
+}
+.social-icons-hexun-logo:before {
+  content: "\e94f";
+}
+.social-icons-hi5-social-logo:before {
+  content: "\e950";
+}
+.social-icons-hipstamatic-logo:before {
+  content: "\e951";
+}
+.social-icons-hubbub-logo:before {
+  content: "\e952";
+}
+.social-icons-inside-the-hotel-logotype:before {
+  content: "\e953";
+}
+.social-icons-instagram-social-network-logo-of-photo-camera:before {
+  content: "\e954";
+}
+.social-icons-intellectconnect-logo:before {
+  content: "\e955";
+}
+.social-icons-iqyi-logo:before {
+  content: "\e956";
+}
+.social-icons-itsmy-logo:before {
+  content: "\e957";
+}
+.social-icons-itsmy-logo-1:before {
+  content: "\e958";
+}
+.social-icons-jiepang-logotype:before {
+  content: "\e959";
+}
+.social-icons-jux-logo:before {
+  content: "\e95a";
+}
+.social-icons-kaixin101-logotype-of-a-smiling-star:before {
+  content: "\e95b";
+}
+.social-icons-kiwibox-logo:before {
+  content: "\e95c";
+}
+.social-icons-ku6-logo:before {
+  content: "\e95d";
+}
+.social-icons-last-fm-logo:before {
+  content: "\e95e";
+}
+.social-icons-linkedin-logo:before {
+  content: "\e95f";
+}
+.social-icons-literatura-nova-logo:before {
+  content: "\e960";
+}
+.social-icons-meetic-logo:before {
+  content: "\e961";
+}
+.social-icons-meetme-logo:before {
+  content: "\e962";
+}
+.social-icons-meetup-logo:before {
+  content: "\e963";
+}
+.social-icons-meetyourfriends-logotype:before {
+  content: "\e964";
+}
+.social-icons-meneame-social-network-logo-of-an-elephant:before {
+  content: "\e965";
+}
+.social-icons-metacafe-logo:before {
+  content: "\e966";
+}
+.social-icons-mixi-logo:before {
+  content: "\e967";
+}
+.social-icons-mocospace-logo:before {
+  content: "\e968";
+}
+.social-icons-myfolio-logo:before {
+  content: "\e969";
+}
+.social-icons-my-heritage-logo:before {
+  content: "\e96a";
+}
+.social-icons-my-life-logo:before {
+  content: "\e96b";
+}
+.social-icons-my-life-social-logo:before {
+  content: "\e96c";
+}
+.social-icons-my-space-logo:before {
+  content: "\e96d";
+}
+.social-icons-myspace-logotype:before {
+  content: "\e96e";
+}
+.social-icons-ning-social-logo:before {
+  content: "\e96f";
+}
+.social-icons-nk-social-symbol:before {
+  content: "\e970";
+}
+.social-icons-notasweb-logo:before {
+  content: "\e971";
+}
+.social-icons-odnoklassniki-logo:before {
+  content: "\e972";
+}
+.social-icons-orkut-logo:before {
+  content: "\e973";
+}
+.social-icons-p1-social-logotype:before {
+  content: "\e974";
+}
+.social-icons-panamo-logo:before {
+  content: "\e975";
+}
+.social-icons-path-social-logotype:before {
+  content: "\e976";
+}
+.social-icons-pengyu-logotype:before {
+  content: "\e977";
+}
+.social-icons-pheed-logo:before {
+  content: "\e978";
+}
+.social-icons-pictify-logo:before {
+  content: "\e979";
+}
+.social-icons-pinspire-logo-symbol:before {
+  content: "\e97a";
+}
+.social-icons-pinstagram-logo:before {
+  content: "\e97b";
+}
+.social-icons-pinterest-social-logo:before {
+  content: "\e97c";
+}
+.social-icons-podio-social-logo:before {
+  content: "\e97d";
+}
+.social-icons-qq-social-logo-of-a-penguin:before {
+  content: "\e97e";
+}
+.social-icons-questionity-logotype:before {
+  content: "\e97f";
+}
+.social-icons-qzone-logo:before {
+  content: "\e980";
+}
+.social-icons-ravelry-logo:before {
+  content: "\e981";
+}
+.social-icons-ravelry-logo-1:before {
+  content: "\e982";
+}
+.social-icons-redalyc-logo:before {
+  content: "\e983";
+}
+.social-icons-reddit-logo:before {
+  content: "\e984";
+}
+.social-icons-reddit-social-logo-character:before {
+  content: "\e985";
+}
+.social-icons-rendezvous-logo:before {
+  content: "\e986";
+}
+.social-icons-renren-logo:before {
+  content: "\e987";
+}
+.social-icons-researchgate-logo:before {
+  content: "\e988";
+}
+.social-icons-reverbnation-logo:before {
+  content: "\e989";
+}
+.social-icons-ryze-logo:before {
+  content: "\e98a";
+}
+.social-icons-ryze-social-logo:before {
+  content: "\e98b";
+}
+.social-icons-scoop-it-logo:before {
+  content: "\e98c";
+}
+.social-icons-scoop-it-logo-1:before {
+  content: "\e98d";
+}
+.social-icons-scribd-logo:before {
+  content: "\e98e";
+}
+.social-icons-sina-logo:before {
+  content: "\e98f";
+}
+.social-icons-sina-social-logo-of-an-eye:before {
+  content: "\e990";
+}
+.social-icons-skyrock-logo:before {
+  content: "\e991";
+}
+.social-icons-slideshare-logo:before {
+  content: "\e992";
+}
+.social-icons-socialcam-logo:before {
+  content: "\e993";
+}
+.social-icons-sonico-logo:before {
+  content: "\e994";
+}
+.social-icons-sonico-social-logo:before {
+  content: "\e995";
+}
+.social-icons-soundcloud-logo:before {
+  content: "\e996";
+}
+.social-icons-spotbros-logo:before {
+  content: "\e997";
+}
+.social-icons-spotify-logo:before {
+  content: "\e998";
+}
+.social-icons-studivz-social-logo:before {
+  content: "\e999";
+}
+.social-icons-stumbleupon-logo:before {
+  content: "\e99a";
+}
+.social-icons-symbaloo-logotype:before {
+  content: "\e99b";
+}
+.social-icons-tadaa-logotype:before {
+  content: "\e99c";
+}
+.social-icons-tagged-logotype:before {
+  content: "\e99d";
+}
+.social-icons-tagworld-logotype-symbol:before {
+  content: "\e99e";
+}
+.social-icons-taringa-logo:before {
+  content: "\e99f";
+}
+.social-icons-telly-social-symbol:before {
+  content: "\e9a0";
+}
+.social-icons-tencent-weibo-logo:before {
+  content: "\e9a1";
+}
+.social-icons-threadless-logotype:before {
+  content: "\e9a2";
+}
+.social-icons-tianji-logotype-symbol:before {
+  content: "\e9a3";
+}
+.social-icons-travbuddy-social-logotype:before {
+  content: "\e9a4";
+}
+.social-icons-tribe-social-logotype:before {
+  content: "\e9a5";
+}
+.social-icons-tripadvisor-logotype:before {
+  content: "\e9a6";
+}
+.social-icons-tudou-logo:before {
+  content: "\e9a7";
+}
+.social-icons-tuenti-social-logo:before {
+  content: "\e9a8";
+}
+.social-icons-tumblr-logo:before {
+  content: "\e9a9";
+}
+.social-icons-tu-tv-logo:before {
+  content: "\e9aa";
+}
+.social-icons-tv-tag-logotype-symbol:before {
+  content: "\e9ab";
+}
+.social-icons-twitpic-symbol:before {
+  content: "\e9ac";
+}
+.social-icons-twitter-logo:before {
+  content: "\e9ad";
+}
+.social-icons-twitter-social-logotype:before {
+  content: "\e9ae";
+}
+.social-icons-twoo-logo:before {
+  content: "\e9af";
+}
+.social-icons-typophile-logo:before {
+  content: "\e9b0";
+}
+.social-icons-ushi-logo:before {
+  content: "\e9b1";
+}
+.social-icons-vampirefreaks-logo:before {
+  content: "\e9b2";
+}
+.social-icons-viadeo-logo:before {
+  content: "\e9b3";
+}
+.social-icons-viddy-logotype:before {
+  content: "\e9b4";
+}
+.social-icons-vimeo-social-logo:before {
+  content: "\e9b5";
+}
+.social-icons-vine-logo:before {
+  content: "\e9b6";
+}
+.social-icons-vine-logo-1:before {
+  content: "\e9b7";
+}
+.social-icons-vk-social-logotype:before {
+  content: "\e9b8";
+}
+.social-icons-wayn-social-network-logo:before {
+  content: "\e9b9";
+}
+.social-icons-weeworld-logo:before {
+  content: "\e9ba";
+}
+.social-icons-weheartit-logo:before {
+  content: "\e9bb";
+}
+.social-icons-weibo-social-logo:before {
+  content: "\e9bc";
+}
+.social-icons-widbook-logo:before {
+  content: "\e9bd";
+}
+.social-icons-wikiloc-logo:before {
+  content: "\e9be";
+}
+.social-icons-wikipedia-logo:before {
+  content: "\e9bf";
+}
+.social-icons-wikipedia-logotype-of-earth-puzzle:before {
+  content: "\e9c0";
+}
+.social-icons-wordpress-logo:before {
+  content: "\e9c1";
+}
+.social-icons-xanga-logo:before {
+  content: "\e9c2";
+}
+.social-icons-xanga-symbol:before {
+  content: "\e9c3";
+}
+.social-icons-xiami-social-symbol:before {
+  content: "\e9c4";
+}
+.social-icons-xing-social-logotype:before {
+  content: "\e9c5";
+}
+.social-icons-yelp-logo:before {
+  content: "\e9c6";
+}
+.social-icons-youku-logo:before {
+  content: "\e9c7";
+}
+.social-icons-yoursphere-logo:before {
+  content: "\e9c8";
+}
+.social-icons-youtube-logotype:before {
+  content: "\e9c9";
+}
+.social-icons-youtube-symbol:before {
+  content: "\e9ca";
+}
+.social-icons-yupoo-logo:before {
+  content: "\e9cb";
+}
+.social-icons-zorpia-logo:before {
+  content: "\e9cc";
+}
+
+
+@font-face {
+  font-family: 'medical-set';
+  src:  url('../fonts/medical-set.eot?gyba7u');
+  src:  url('../fonts/medical-set.eot?gyba7u#iefix') format('embedded-opentype'),
+    url('../fonts/medical-set.ttf?gyba7u') format('truetype'),
+    url('../fonts/medical-set.woff?gyba7u') format('woff'),
+    url('../fonts/medical-set.svg?gyba7u#medical-set') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="medical-set-"], [class*=" medical-set-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'medical-set' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.medical-set-anesthesia:before {
+  content: "\e900";
+}
+.medical-set-antibiotic:before {
+  content: "\e901";
+}
+.medical-set-arm:before {
+  content: "\e902";
+}
+.medical-set-arm-1:before {
+  content: "\e903";
+}
+.medical-set-articulation:before {
+  content: "\e904";
+}
+.medical-set-bacteria:before {
+  content: "\e905";
+}
+.medical-set-band-aid:before {
+  content: "\e906";
+}
+.medical-set-blood-sample:before {
+  content: "\e907";
+}
+.medical-set-blood-sample-1:before {
+  content: "\e908";
+}
+.medical-set-blood-transfusion:before {
+  content: "\e909";
+}
+.medical-set-bone:before {
+  content: "\e90a";
+}
+.medical-set-braces:before {
+  content: "\e90b";
+}
+.medical-set-braces-1:before {
+  content: "\e90c";
+}
+.medical-set-braces-2:before {
+  content: "\e90d";
+}
+.medical-set-brain:before {
+  content: "\e90e";
+}
+.medical-set-brain-1:before {
+  content: "\e90f";
+}
+.medical-set-brain-2:before {
+  content: "\e910";
+}
+.medical-set-brain-3:before {
+  content: "\e911";
+}
+.medical-set-breast:before {
+  content: "\e912";
+}
+.medical-set-breast-1:before {
+  content: "\e913";
+}
+.medical-set-breast-2:before {
+  content: "\e914";
+}
+.medical-set-breast-3:before {
+  content: "\e915";
+}
+.medical-set-breast-4:before {
+  content: "\e916";
+}
+.medical-set-breast-implant:before {
+  content: "\e917";
+}
+.medical-set-canine:before {
+  content: "\e918";
+}
+.medical-set-canine-1:before {
+  content: "\e919";
+}
+.medical-set-canine-2:before {
+  content: "\e91a";
+}
+.medical-set-canine-3:before {
+  content: "\e91b";
+}
+.medical-set-cardiogram:before {
+  content: "\e91c";
+}
+.medical-set-cardiogram-1:before {
+  content: "\e91d";
+}
+.medical-set-cardiogram-2:before {
+  content: "\e91e";
+}
+.medical-set-caries:before {
+  content: "\e91f";
+}
+.medical-set-caries-1:before {
+  content: "\e920";
+}
+.medical-set-crutches:before {
+  content: "\e921";
+}
+.medical-set-dental-drill:before {
+  content: "\e922";
+}
+.medical-set-dental-floss:before {
+  content: "\e923";
+}
+.medical-set-dna:before {
+  content: "\e924";
+}
+.medical-set-dropper:before {
+  content: "\e925";
+}
+.medical-set-drugs:before {
+  content: "\e926";
+}
+.medical-set-drugs-1:before {
+  content: "\e927";
+}
+.medical-set-drugs-2:before {
+  content: "\e928";
+}
+.medical-set-drugs-3:before {
+  content: "\e929";
+}
+.medical-set-drugs-4:before {
+  content: "\e92a";
+}
+.medical-set-ear:before {
+  content: "\e92b";
+}
+.medical-set-earbuds:before {
+  content: "\e92c";
+}
+.medical-set-edema:before {
+  content: "\e92d";
+}
+.medical-set-electric-toothbrush:before {
+  content: "\e92e";
+}
+.medical-set-epidermis:before {
+  content: "\e92f";
+}
+.medical-set-extraction:before {
+  content: "\e930";
+}
+.medical-set-eye:before {
+  content: "\e931";
+}
+.medical-set-eye-1:before {
+  content: "\e932";
+}
+.medical-set-eye-drops:before {
+  content: "\e933";
+}
+.medical-set-eye-drops-1:before {
+  content: "\e934";
+}
+.medical-set-fat:before {
+  content: "\e935";
+}
+.medical-set-femur:before {
+  content: "\e936";
+}
+.medical-set-finger:before {
+  content: "\e937";
+}
+.medical-set-finger-1:before {
+  content: "\e938";
+}
+.medical-set-finger-2:before {
+  content: "\e939";
+}
+.medical-set-first-aid-kit:before {
+  content: "\e93a";
+}
+.medical-set-fit:before {
+  content: "\e93b";
+}
+.medical-set-gum:before {
+  content: "\e93c";
+}
+.medical-set-gum-1:before {
+  content: "\e93d";
+}
+.medical-set-hammer:before {
+  content: "\e93e";
+}
+.medical-set-heart:before {
+  content: "\e93f";
+}
+.medical-set-implants:before {
+  content: "\e940";
+}
+.medical-set-implants-1:before {
+  content: "\e941";
+}
+.medical-set-implants-2:before {
+  content: "\e942";
+}
+.medical-set-implants-3:before {
+  content: "\e943";
+}
+.medical-set-implants-4:before {
+  content: "\e944";
+}
+.medical-set-inhalator:before {
+  content: "\e945";
+}
+.medical-set-intestines:before {
+  content: "\e946";
+}
+.medical-set-iris:before {
+  content: "\e947";
+}
+.medical-set-kidney:before {
+  content: "\e948";
+}
+.medical-set-kidney-1:before {
+  content: "\e949";
+}
+.medical-set-knee:before {
+  content: "\e94a";
+}
+.medical-set-knee-1:before {
+  content: "\e94b";
+}
+.medical-set-kneecap:before {
+  content: "\e94c";
+}
+.medical-set-liver:before {
+  content: "\e94d";
+}
+.medical-set-lozenge:before {
+  content: "\e94e";
+}
+.medical-set-lungs:before {
+  content: "\e94f";
+}
+.medical-set-lungs-1:before {
+  content: "\e950";
+}
+.medical-set-lungs-2:before {
+  content: "\e951";
+}
+.medical-set-medical-records:before {
+  content: "\e952";
+}
+.medical-set-medicine:before {
+  content: "\e953";
+}
+.medical-set-medicine-1:before {
+  content: "\e954";
+}
+.medical-set-microbe:before {
+  content: "\e955";
+}
+.medical-set-mirror:before {
+  content: "\e956";
+}
+.medical-set-molar:before {
+  content: "\e957";
+}
+.medical-set-molar-1:before {
+  content: "\e958";
+}
+.medical-set-molar-2:before {
+  content: "\e959";
+}
+.medical-set-molar-3:before {
+  content: "\e95a";
+}
+.medical-set-molar-4:before {
+  content: "\e95b";
+}
+.medical-set-molar-5:before {
+  content: "\e95c";
+}
+.medical-set-molar-6:before {
+  content: "\e95d";
+}
+.medical-set-molar-7:before {
+  content: "\e95e";
+}
+.medical-set-molar-8:before {
+  content: "\e95f";
+}
+.medical-set-molar-crown:before {
+  content: "\e960";
+}
+.medical-set-nose:before {
+  content: "\e961";
+}
+.medical-set-notepad:before {
+  content: "\e962";
+}
+.medical-set-ointment:before {
+  content: "\e963";
+}
+.medical-set-ointment-1:before {
+  content: "\e964";
+}
+.medical-set-optical:before {
+  content: "\e965";
+}
+.medical-set-otoscope:before {
+  content: "\e966";
+}
+.medical-set-pancreas:before {
+  content: "\e967";
+}
+.medical-set-penis:before {
+  content: "\e968";
+}
+.medical-set-perfusion:before {
+  content: "\e969";
+}
+.medical-set-periodontal-scaler:before {
+  content: "\e96a";
+}
+.medical-set-periodontal-scaler-1:before {
+  content: "\e96b";
+}
+.medical-set-periodontal-scaler-2:before {
+  content: "\e96c";
+}
+.medical-set-pill:before {
+  content: "\e96d";
+}
+.medical-set-pill-1:before {
+  content: "\e96e";
+}
+.medical-set-pills:before {
+  content: "\e96f";
+}
+.medical-set-pills-1:before {
+  content: "\e970";
+}
+.medical-set-pills-2:before {
+  content: "\e971";
+}
+.medical-set-pills-3:before {
+  content: "\e972";
+}
+.medical-set-pills-4:before {
+  content: "\e973";
+}
+.medical-set-plastered-foot:before {
+  content: "\e974";
+}
+.medical-set-plastered-foot-1:before {
+  content: "\e975";
+}
+.medical-set-premolar:before {
+  content: "\e976";
+}
+.medical-set-premolar-1:before {
+  content: "\e977";
+}
+.medical-set-premolar-2:before {
+  content: "\e978";
+}
+.medical-set-records:before {
+  content: "\e979";
+}
+.medical-set-records-1:before {
+  content: "\e97a";
+}
+.medical-set-records-2:before {
+  content: "\e97b";
+}
+.medical-set-ribbon:before {
+  content: "\e97c";
+}
+.medical-set-scalpel:before {
+  content: "\e97d";
+}
+.medical-set-scissors:before {
+  content: "\e97e";
+}
+.medical-set-skeleton:before {
+  content: "\e97f";
+}
+.medical-set-skull:before {
+  content: "\e980";
+}
+.medical-set-skull-1:before {
+  content: "\e981";
+}
+.medical-set-spinal-column:before {
+  content: "\e982";
+}
+.medical-set-stethoscope:before {
+  content: "\e983";
+}
+.medical-set-stomach:before {
+  content: "\e984";
+}
+.medical-set-stomach-1:before {
+  content: "\e985";
+}
+.medical-set-syringe:before {
+  content: "\e986";
+}
+.medical-set-syringe-1:before {
+  content: "\e987";
+}
+.medical-set-syringe-2:before {
+  content: "\e988";
+}
+.medical-set-syringe-3:before {
+  content: "\e989";
+}
+.medical-set-syringe-4:before {
+  content: "\e98a";
+}
+.medical-set-tablets:before {
+  content: "\e98b";
+}
+.medical-set-teeth:before {
+  content: "\e98c";
+}
+.medical-set-teeth-1:before {
+  content: "\e98d";
+}
+.medical-set-teeth-2:before {
+  content: "\e98e";
+}
+.medical-set-teeth-3:before {
+  content: "\e98f";
+}
+.medical-set-teeth-4:before {
+  content: "\e990";
+}
+.medical-set-teeth-5:before {
+  content: "\e991";
+}
+.medical-set-teeth-6:before {
+  content: "\e992";
+}
+.medical-set-teeth-7:before {
+  content: "\e993";
+}
+.medical-set-teeth-8:before {
+  content: "\e994";
+}
+.medical-set-teeth-9:before {
+  content: "\e995";
+}
+.medical-set-teeth-10:before {
+  content: "\e996";
+}
+.medical-set-thermometer:before {
+  content: "\e997";
+}
+.medical-set-thermometer-1:before {
+  content: "\e998";
+}
+.medical-set-thin:before {
+  content: "\e999";
+}
+.medical-set-tonsils-tester:before {
+  content: "\e99a";
+}
+.medical-set-tooth:before {
+  content: "\e99b";
+}
+.medical-set-tooth-1:before {
+  content: "\e99c";
+}
+.medical-set-tooth-2:before {
+  content: "\e99d";
+}
+.medical-set-tooth-brush:before {
+  content: "\e99e";
+}
+.medical-set-tooth-pliers:before {
+  content: "\e99f";
+}
+.medical-set-tweezers:before {
+  content: "\e9a0";
+}
+.medical-set-tweezers-1:before {
+  content: "\e9a1";
+}
+.medical-set-uterus:before {
+  content: "\e9a2";
+}
+.medical-set-vagina:before {
+  content: "\e9a3";
+}
+.medical-set-vagina-1:before {
+  content: "\e9a4";
+}
+.medical-set-virus:before {
+  content: "\e9a5";
+}
+.medical-set-wheelchair:before {
+  content: "\e9a6";
+}
+.medical-set-x-ray:before {
+  content: "\e9a7";
+}
+.medical-set-x-ray-1:before {
+  content: "\e9a8";
+}
+.medical-set-x-ray-2:before {
+  content: "\e9a9";
+}
+
+
+@font-face {
+  font-family: 'health-care-icon-set';
+  src:  url('../fonts/health-care-icon-set.eot?bulpn');
+  src:  url('../fonts/health-care-icon-set.eot?bulpn#iefix') format('embedded-opentype'),
+    url('../fonts/health-care-icon-set.ttf?bulpn') format('truetype'),
+    url('../fonts/health-care-icon-set.woff?bulpn') format('woff'),
+    url('../fonts/health-care-icon-set.svg?bulpn#health-care-icon-set') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="health-care-icon-set-"], [class*=" health-care-icon-set-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'health-care-icon-set' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.health-care-icon-set-alarm:before {
+  content: "\e900";
+}
+.health-care-icon-set-ambulance:before {
+  content: "\e901";
+}
+.health-care-icon-set-ambulance-1:before {
+  content: "\e902";
+}
+.health-care-icon-set-ambulance-2:before {
+  content: "\e903";
+}
+.health-care-icon-set-ambulance-3:before {
+  content: "\e904";
+}
+.health-care-icon-set-apple:before {
+  content: "\e905";
+}
+.health-care-icon-set-bag:before {
+  content: "\e906";
+}
+.health-care-icon-set-bandage:before {
+  content: "\e907";
+}
+.health-care-icon-set-bandage-1:before {
+  content: "\e908";
+}
+.health-care-icon-set-bandage-2:before {
+  content: "\e909";
+}
+.health-care-icon-set-blood:before {
+  content: "\e90a";
+}
+.health-care-icon-set-blood-1:before {
+  content: "\e90b";
+}
+.health-care-icon-set-blood-2:before {
+  content: "\e90c";
+}
+.health-care-icon-set-briefcase:before {
+  content: "\e90d";
+}
+.health-care-icon-set-calendar:before {
+  content: "\e90e";
+}
+.health-care-icon-set-cardiogram:before {
+  content: "\e90f";
+}
+.health-care-icon-set-cardiogram-1:before {
+  content: "\e910";
+}
+.health-care-icon-set-cardiogram-2:before {
+  content: "\e911";
+}
+.health-care-icon-set-cardiogram-3:before {
+  content: "\e912";
+}
+.health-care-icon-set-cardiogram-4:before {
+  content: "\e913";
+}
+.health-care-icon-set-cardiogram-5:before {
+  content: "\e914";
+}
+.health-care-icon-set-cardiogram-6:before {
+  content: "\e915";
+}
+.health-care-icon-set-cardiology:before {
+  content: "\e916";
+}
+.health-care-icon-set-cells:before {
+  content: "\e917";
+}
+.health-care-icon-set-clock:before {
+  content: "\e918";
+}
+.health-care-icon-set-clock-1:before {
+  content: "\e919";
+}
+.health-care-icon-set-comb:before {
+  content: "\e91a";
+}
+.health-care-icon-set-contract:before {
+  content: "\e91b";
+}
+.health-care-icon-set-cream:before {
+  content: "\e91c";
+}
+.health-care-icon-set-crutches:before {
+  content: "\e91d";
+}
+.health-care-icon-set-crutches-1:before {
+  content: "\e91e";
+}
+.health-care-icon-set-dna:before {
+  content: "\e91f";
+}
+.health-care-icon-set-dropper:before {
+  content: "\e920";
+}
+.health-care-icon-set-dropper-1:before {
+  content: "\e921";
+}
+.health-care-icon-set-dumbbell:before {
+  content: "\e922";
+}
+.health-care-icon-set-dumbbells:before {
+  content: "\e923";
+}
+.health-care-icon-set-dumbbells-1:before {
+  content: "\e924";
+}
+.health-care-icon-set-dumbbells-2:before {
+  content: "\e925";
+}
+.health-care-icon-set-ear:before {
+  content: "\e926";
+}
+.health-care-icon-set-fire-extinguisher:before {
+  content: "\e927";
+}
+.health-care-icon-set-first-aid-kit:before {
+  content: "\e928";
+}
+.health-care-icon-set-first-aid-kit-1:before {
+  content: "\e929";
+}
+.health-care-icon-set-first-aid-kit-2:before {
+  content: "\e92a";
+}
+.health-care-icon-set-first-aid-kit-3:before {
+  content: "\e92b";
+}
+.health-care-icon-set-first-aid-kit-4:before {
+  content: "\e92c";
+}
+.health-care-icon-set-fish:before {
+  content: "\e92d";
+}
+.health-care-icon-set-flask:before {
+  content: "\e92e";
+}
+.health-care-icon-set-flask-1:before {
+  content: "\e92f";
+}
+.health-care-icon-set-flask-2:before {
+  content: "\e930";
+}
+.health-care-icon-set-flask-3:before {
+  content: "\e931";
+}
+.health-care-icon-set-flask-4:before {
+  content: "\e932";
+}
+.health-care-icon-set-happy:before {
+  content: "\e933";
+}
+.health-care-icon-set-healthy-food:before {
+  content: "\e934";
+}
+.health-care-icon-set-heart:before {
+  content: "\e935";
+}
+.health-care-icon-set-heart-1:before {
+  content: "\e936";
+}
+.health-care-icon-set-heart-2:before {
+  content: "\e937";
+}
+.health-care-icon-set-helicopter:before {
+  content: "\e938";
+}
+.health-care-icon-set-hospital:before {
+  content: "\e939";
+}
+.health-care-icon-set-hospital-1:before {
+  content: "\e93a";
+}
+.health-care-icon-set-hospital-2:before {
+  content: "\e93b";
+}
+.health-care-icon-set-hospital-3:before {
+  content: "\e93c";
+}
+.health-care-icon-set-hospital-4:before {
+  content: "\e93d";
+}
+.health-care-icon-set-hospital-5:before {
+  content: "\e93e";
+}
+.health-care-icon-set-hospital-6:before {
+  content: "\e93f";
+}
+.health-care-icon-set-hospital-7:before {
+  content: "\e940";
+}
+.health-care-icon-set-hospital-8:before {
+  content: "\e941";
+}
+.health-care-icon-set-hospital-9:before {
+  content: "\e942";
+}
+.health-care-icon-set-hospital-10:before {
+  content: "\e943";
+}
+.health-care-icon-set-hospital-11:before {
+  content: "\e944";
+}
+.health-care-icon-set-hospital-12:before {
+  content: "\e945";
+}
+.health-care-icon-set-hospital-13:before {
+  content: "\e946";
+}
+.health-care-icon-set-hospital-14:before {
+  content: "\e947";
+}
+.health-care-icon-set-hospital-15:before {
+  content: "\e948";
+}
+.health-care-icon-set-hospital-bed:before {
+  content: "\e949";
+}
+.health-care-icon-set-hospital-bed-1:before {
+  content: "\e94a";
+}
+.health-care-icon-set-hospital-bed-2:before {
+  content: "\e94b";
+}
+.health-care-icon-set-hospital-bed-3:before {
+  content: "\e94c";
+}
+.health-care-icon-set-hospital-bed-4:before {
+  content: "\e94d";
+}
+.health-care-icon-set-hourglass:before {
+  content: "\e94e";
+}
+.health-care-icon-set-leaf:before {
+  content: "\e94f";
+}
+.health-care-icon-set-lemon:before {
+  content: "\e950";
+}
+.health-care-icon-set-lungs:before {
+  content: "\e951";
+}
+.health-care-icon-set-masculine:before {
+  content: "\e952";
+}
+.health-care-icon-set-medical-records:before {
+  content: "\e953";
+}
+.health-care-icon-set-medical-records-1:before {
+  content: "\e954";
+}
+.health-care-icon-set-medical-records-2:before {
+  content: "\e955";
+}
+.health-care-icon-set-medical-records-3:before {
+  content: "\e956";
+}
+.health-care-icon-set-medical-records-4:before {
+  content: "\e957";
+}
+.health-care-icon-set-medical-records-5:before {
+  content: "\e958";
+}
+.health-care-icon-set-medicine:before {
+  content: "\e959";
+}
+.health-care-icon-set-medicine-1:before {
+  content: "\e95a";
+}
+.health-care-icon-set-medicine-2:before {
+  content: "\e95b";
+}
+.health-care-icon-set-medicine-3:before {
+  content: "\e95c";
+}
+.health-care-icon-set-medicine-4:before {
+  content: "\e95d";
+}
+.health-care-icon-set-medicine-5:before {
+  content: "\e95e";
+}
+.health-care-icon-set-medicine-6:before {
+  content: "\e95f";
+}
+.health-care-icon-set-medicine-7:before {
+  content: "\e960";
+}
+.health-care-icon-set-medicine-8:before {
+  content: "\e961";
+}
+.health-care-icon-set-medicine-9:before {
+  content: "\e962";
+}
+.health-care-icon-set-medicine-10:before {
+  content: "\e963";
+}
+.health-care-icon-set-medicine-11:before {
+  content: "\e964";
+}
+.health-care-icon-set-medicine-12:before {
+  content: "\e965";
+}
+.health-care-icon-set-medicine-13:before {
+  content: "\e966";
+}
+.health-care-icon-set-medicine-14:before {
+  content: "\e967";
+}
+.health-care-icon-set-medicine-15:before {
+  content: "\e968";
+}
+.health-care-icon-set-medicine-16:before {
+  content: "\e969";
+}
+.health-care-icon-set-medicine-17:before {
+  content: "\e96a";
+}
+.health-care-icon-set-medicine-18:before {
+  content: "\e96b";
+}
+.health-care-icon-set-medicine-19:before {
+  content: "\e96c";
+}
+.health-care-icon-set-medicine-20:before {
+  content: "\e96d";
+}
+.health-care-icon-set-medicine-21:before {
+  content: "\e96e";
+}
+.health-care-icon-set-medicine-22:before {
+  content: "\e96f";
+}
+.health-care-icon-set-medicine-book:before {
+  content: "\e970";
+}
+.health-care-icon-set-medicine-book-1:before {
+  content: "\e971";
+}
+.health-care-icon-set-medicine-book-2:before {
+  content: "\e972";
+}
+.health-care-icon-set-medicine-book-3:before {
+  content: "\e973";
+}
+.health-care-icon-set-medicines:before {
+  content: "\e974";
+}
+.health-care-icon-set-medicines-1:before {
+  content: "\e975";
+}
+.health-care-icon-set-medicines-2:before {
+  content: "\e976";
+}
+.health-care-icon-set-microscope:before {
+  content: "\e977";
+}
+.health-care-icon-set-microscope-1:before {
+  content: "\e978";
+}
+.health-care-icon-set-mug:before {
+  content: "\e979";
+}
+.health-care-icon-set-no-smoke:before {
+  content: "\e97a";
+}
+.health-care-icon-set-no-smoke-1:before {
+  content: "\e97b";
+}
+.health-care-icon-set-notepad:before {
+  content: "\e97c";
+}
+.health-care-icon-set-notepad-1:before {
+  content: "\e97d";
+}
+.health-care-icon-set-notepad-2:before {
+  content: "\e97e";
+}
+.health-care-icon-set-notepad-3:before {
+  content: "\e97f";
+}
+.health-care-icon-set-notepad-4:before {
+  content: "\e980";
+}
+.health-care-icon-set-notepad-5:before {
+  content: "\e981";
+}
+.health-care-icon-set-nurse:before {
+  content: "\e982";
+}
+.health-care-icon-set-nurse-1:before {
+  content: "\e983";
+}
+.health-care-icon-set-nurse-2:before {
+  content: "\e984";
+}
+.health-care-icon-set-oxygen-tank:before {
+  content: "\e985";
+}
+.health-care-icon-set-pharmacy:before {
+  content: "\e986";
+}
+.health-care-icon-set-pharmacy-1:before {
+  content: "\e987";
+}
+.health-care-icon-set-pill:before {
+  content: "\e988";
+}
+.health-care-icon-set-pill-1:before {
+  content: "\e989";
+}
+.health-care-icon-set-pills:before {
+  content: "\e98a";
+}
+.health-care-icon-set-protection:before {
+  content: "\e98b";
+}
+.health-care-icon-set-protection-1:before {
+  content: "\e98c";
+}
+.health-care-icon-set-scissors:before {
+  content: "\e98d";
+}
+.health-care-icon-set-scissors-1:before {
+  content: "\e98e";
+}
+.health-care-icon-set-share:before {
+  content: "\e98f";
+}
+.health-care-icon-set-shopping-basket:before {
+  content: "\e990";
+}
+.health-care-icon-set-smartphone:before {
+  content: "\e991";
+}
+.health-care-icon-set-soft-drink:before {
+  content: "\e992";
+}
+.health-care-icon-set-soft-drink-1:before {
+  content: "\e993";
+}
+.health-care-icon-set-solidarity:before {
+  content: "\e994";
+}
+.health-care-icon-set-solidarity-1:before {
+  content: "\e995";
+}
+.health-care-icon-set-stethoscope:before {
+  content: "\e996";
+}
+.health-care-icon-set-stethoscope-1:before {
+  content: "\e997";
+}
+.health-care-icon-set-stethoscope-2:before {
+  content: "\e998";
+}
+.health-care-icon-set-stethoscope-3:before {
+  content: "\e999";
+}
+.health-care-icon-set-stethoscope-4:before {
+  content: "\e99a";
+}
+.health-care-icon-set-stopclock:before {
+  content: "\e99b";
+}
+.health-care-icon-set-stopclock-1:before {
+  content: "\e99c";
+}
+.health-care-icon-set-syringe:before {
+  content: "\e99d";
+}
+.health-care-icon-set-syringe-1:before {
+  content: "\e99e";
+}
+.health-care-icon-set-syringe-2:before {
+  content: "\e99f";
+}
+.health-care-icon-set-syringe-3:before {
+  content: "\e9a0";
+}
+.health-care-icon-set-syringe-4:before {
+  content: "\e9a1";
+}
+.health-care-icon-set-tablet:before {
+  content: "\e9a2";
+}
+.health-care-icon-set-tablet-1:before {
+  content: "\e9a3";
+}
+.health-care-icon-set-tablets:before {
+  content: "\e9a4";
+}
+.health-care-icon-set-telephone:before {
+  content: "\e9a5";
+}
+.health-care-icon-set-telephone-1:before {
+  content: "\e9a6";
+}
+.health-care-icon-set-test-tube:before {
+  content: "\e9a7";
+}
+.health-care-icon-set-test-tube-1:before {
+  content: "\e9a8";
+}
+.health-care-icon-set-test-tube-2:before {
+  content: "\e9a9";
+}
+.health-care-icon-set-test-tube-3:before {
+  content: "\e9aa";
+}
+.health-care-icon-set-test-tubes:before {
+  content: "\e9ab";
+}
+.health-care-icon-set-thermometer:before {
+  content: "\e9ac";
+}
+.health-care-icon-set-thermometer-1:before {
+  content: "\e9ad";
+}
+.health-care-icon-set-thermometer-2:before {
+  content: "\e9ae";
+}
+.health-care-icon-set-tooth:before {
+  content: "\e9af";
+}
+.health-care-icon-set-tooth-1:before {
+  content: "\e9b0";
+}
+.health-care-icon-set-tooth-2:before {
+  content: "\e9b1";
+}
+.health-care-icon-set-tooth-3:before {
+  content: "\e9b2";
+}
+.health-care-icon-set-tooth-4:before {
+  content: "\e9b3";
+}
+.health-care-icon-set-toothbrush:before {
+  content: "\e9b4";
+}
+.health-care-icon-set-transfusion:before {
+  content: "\e9b5";
+}
+.health-care-icon-set-transfusion-1:before {
+  content: "\e9b6";
+}
+.health-care-icon-set-transfusion-2:before {
+  content: "\e9b7";
+}
+.health-care-icon-set-transfusion-3:before {
+  content: "\e9b8";
+}
+.health-care-icon-set-transfusion-4:before {
+  content: "\e9b9";
+}
+.health-care-icon-set-transfusion-5:before {
+  content: "\e9ba";
+}
+.health-care-icon-set-trolley:before {
+  content: "\e9bb";
+}
+.health-care-icon-set-umbrella:before {
+  content: "\e9bc";
+}
+.health-care-icon-set-visibility:before {
+  content: "\e9bd";
+}
+.health-care-icon-set-visibility-1:before {
+  content: "\e9be";
+}
+.health-care-icon-set-weight:before {
+  content: "\e9bf";
+}
+.health-care-icon-set-weight-1:before {
+  content: "\e9c0";
+}
+.health-care-icon-set-wheelchair:before {
+  content: "\e9c1";
+}
+.health-care-icon-set-wheelchair-1:before {
+  content: "\e9c2";
+}
+.health-care-icon-set-wheelchair-2:before {
+  content: "\e9c3";
+}
+.health-care-icon-set-wheelchair-3:before {
+  content: "\e9c4";
+}
+.health-care-icon-set-wheelchair-4:before {
+  content: "\e9c5";
+}
+.health-care-icon-set-woman:before {
+  content: "\e9c6";
+}
+.health-care-icon-set-zoom-in:before {
+  content: "\e9c7";
+}
+
+
+@font-face {
+  font-family: 'free-basic-ui-elements';
+  src:  url('../fonts/free-basic-ui-elements.eot?h06e6p');
+  src:  url('../fonts/free-basic-ui-elements.eot?h06e6p#iefix') format('embedded-opentype'),
+    url('../fonts/free-basic-ui-elements.ttf?h06e6p') format('truetype'),
+    url('../fonts/free-basic-ui-elements.woff?h06e6p') format('woff'),
+    url('../fonts/free-basic-ui-elements.svg?h06e6p#free-basic-ui-elements') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="free-basic-ui-elements-"], [class*=" free-basic-ui-elements-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'free-basic-ui-elements' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.free-basic-ui-elements-add:before {
+  content: "\e900";
+}
+.free-basic-ui-elements-bag:before {
+  content: "\e901";
+}
+.free-basic-ui-elements-battery:before {
+  content: "\e902";
+}
+.free-basic-ui-elements-bell:before {
+  content: "\e903";
+}
+.free-basic-ui-elements-bluetooth:before {
+  content: "\e904";
+}
+.free-basic-ui-elements-bookmark:before {
+  content: "\e905";
+}
+.free-basic-ui-elements-briefcase:before {
+  content: "\e906";
+}
+.free-basic-ui-elements-calendar:before {
+  content: "\e907";
+}
+.free-basic-ui-elements-cancel:before {
+  content: "\e908";
+}
+.free-basic-ui-elements-cancel-1:before {
+  content: "\e909";
+}
+.free-basic-ui-elements-clip:before {
+  content: "\e90a";
+}
+.free-basic-ui-elements-clock:before {
+  content: "\e90b";
+}
+.free-basic-ui-elements-clock-1:before {
+  content: "\e90c";
+}
+.free-basic-ui-elements-cloud:before {
+  content: "\e90d";
+}
+.free-basic-ui-elements-correct:before {
+  content: "\e90e";
+}
+.free-basic-ui-elements-credit-card:before {
+  content: "\e90f";
+}
+.free-basic-ui-elements-cursor:before {
+  content: "\e910";
+}
+.free-basic-ui-elements-cursor-1:before {
+  content: "\e911";
+}
+.free-basic-ui-elements-cut:before {
+  content: "\e912";
+}
+.free-basic-ui-elements-cutlery:before {
+  content: "\e913";
+}
+.free-basic-ui-elements-down-arrow:before {
+  content: "\e914";
+}
+.free-basic-ui-elements-download:before {
+  content: "\e915";
+}
+.free-basic-ui-elements-edit:before {
+  content: "\e916";
+}
+.free-basic-ui-elements-envelope:before {
+  content: "\e917";
+}
+.free-basic-ui-elements-export:before {
+  content: "\e918";
+}
+.free-basic-ui-elements-favorite:before {
+  content: "\e919";
+}
+.free-basic-ui-elements-file:before {
+  content: "\e91a";
+}
+.free-basic-ui-elements-folder:before {
+  content: "\e91b";
+}
+.free-basic-ui-elements-forward:before {
+  content: "\e91c";
+}
+.free-basic-ui-elements-gallery:before {
+  content: "\e91d";
+}
+.free-basic-ui-elements-gamepad:before {
+  content: "\e91e";
+}
+.free-basic-ui-elements-garbage:before {
+  content: "\e91f";
+}
+.free-basic-ui-elements-headphones:before {
+  content: "\e920";
+}
+.free-basic-ui-elements-heart:before {
+  content: "\e921";
+}
+.free-basic-ui-elements-help:before {
+  content: "\e922";
+}
+.free-basic-ui-elements-home:before {
+  content: "\e923";
+}
+.free-basic-ui-elements-hourglass:before {
+  content: "\e924";
+}
+.free-basic-ui-elements-info:before {
+  content: "\e925";
+}
+.free-basic-ui-elements-layer:before {
+  content: "\e926";
+}
+.free-basic-ui-elements-layout:before {
+  content: "\e927";
+}
+.free-basic-ui-elements-left-arrow:before {
+  content: "\e928";
+}
+.free-basic-ui-elements-left-arrow-1:before {
+  content: "\e929";
+}
+.free-basic-ui-elements-lightning:before {
+  content: "\e92a";
+}
+.free-basic-ui-elements-link:before {
+  content: "\e92b";
+}
+.free-basic-ui-elements-logout:before {
+  content: "\e92c";
+}
+.free-basic-ui-elements-magnet:before {
+  content: "\e92d";
+}
+.free-basic-ui-elements-map:before {
+  content: "\e92e";
+}
+.free-basic-ui-elements-menu:before {
+  content: "\e92f";
+}
+.free-basic-ui-elements-monitor:before {
+  content: "\e930";
+}
+.free-basic-ui-elements-moon:before {
+  content: "\e931";
+}
+.free-basic-ui-elements-padnote:before {
+  content: "\e932";
+}
+.free-basic-ui-elements-paint:before {
+  content: "\e933";
+}
+.free-basic-ui-elements-pause:before {
+  content: "\e934";
+}
+.free-basic-ui-elements-photo-camera:before {
+  content: "\e935";
+}
+.free-basic-ui-elements-placeholder:before {
+  content: "\e936";
+}
+.free-basic-ui-elements-play-button:before {
+  content: "\e937";
+}
+.free-basic-ui-elements-power:before {
+  content: "\e938";
+}
+.free-basic-ui-elements-presentation:before {
+  content: "\e939";
+}
+.free-basic-ui-elements-printer:before {
+  content: "\e93a";
+}
+.free-basic-ui-elements-profile:before {
+  content: "\e93b";
+}
+.free-basic-ui-elements-prohibition:before {
+  content: "\e93c";
+}
+.free-basic-ui-elements-push-pin:before {
+  content: "\e93d";
+}
+.free-basic-ui-elements-puzzle:before {
+  content: "\e93e";
+}
+.free-basic-ui-elements-refresh:before {
+  content: "\e93f";
+}
+.free-basic-ui-elements-remove:before {
+  content: "\e940";
+}
+.free-basic-ui-elements-rewind:before {
+  content: "\e941";
+}
+.free-basic-ui-elements-right-arrow:before {
+  content: "\e942";
+}
+.free-basic-ui-elements-right-arrow-1:before {
+  content: "\e943";
+}
+.free-basic-ui-elements-rocket-launch:before {
+  content: "\e944";
+}
+.free-basic-ui-elements-screen:before {
+  content: "\e945";
+}
+.free-basic-ui-elements-search:before {
+  content: "\e946";
+}
+.free-basic-ui-elements-settings:before {
+  content: "\e947";
+}
+.free-basic-ui-elements-settings-1:before {
+  content: "\e948";
+}
+.free-basic-ui-elements-settings-2:before {
+  content: "\e949";
+}
+.free-basic-ui-elements-share:before {
+  content: "\e94a";
+}
+.free-basic-ui-elements-shield:before {
+  content: "\e94b";
+}
+.free-basic-ui-elements-shopping-cart:before {
+  content: "\e94c";
+}
+.free-basic-ui-elements-shutter:before {
+  content: "\e94d";
+}
+.free-basic-ui-elements-smartphone:before {
+  content: "\e94e";
+}
+.free-basic-ui-elements-speech-bubble:before {
+  content: "\e94f";
+}
+.free-basic-ui-elements-speedometer:before {
+  content: "\e950";
+}
+.free-basic-ui-elements-stats:before {
+  content: "\e951";
+}
+.free-basic-ui-elements-store:before {
+  content: "\e952";
+}
+.free-basic-ui-elements-sun:before {
+  content: "\e953";
+}
+.free-basic-ui-elements-switch:before {
+  content: "\e954";
+}
+.free-basic-ui-elements-tag:before {
+  content: "\e955";
+}
+.free-basic-ui-elements-target:before {
+  content: "\e956";
+}
+.free-basic-ui-elements-timer:before {
+  content: "\e957";
+}
+.free-basic-ui-elements-unlock:before {
+  content: "\e958";
+}
+.free-basic-ui-elements-up-arrow:before {
+  content: "\e959";
+}
+.free-basic-ui-elements-upload:before {
+  content: "\e95a";
+}
+.free-basic-ui-elements-video:before {
+  content: "\e95b";
+}
+.free-basic-ui-elements-video-camera:before {
+  content: "\e95c";
+}
+.free-basic-ui-elements-visible:before {
+  content: "\e95d";
+}
+.free-basic-ui-elements-voice-recorder:before {
+  content: "\e95e";
+}
+.free-basic-ui-elements-volume:before {
+  content: "\e95f";
+}
+.free-basic-ui-elements-waiting:before {
+  content: "\e960";
+}
+.free-basic-ui-elements-wifi:before {
+  content: "\e961";
+}
+.free-basic-ui-elements-zoom:before {
+  content: "\e962";
+}
+.free-basic-ui-elements-zoom-out:before {
+  content: "\e963";
+}
+
+
+@font-face {
+  font-family: 'essential-set';
+  src:  url('../fonts/essential-set.eot?e8wy75');
+  src:  url('../fonts/essential-set.eot?e8wy75#iefix') format('embedded-opentype'),
+    url('../fonts/essential-set.ttf?e8wy75') format('truetype'),
+    url('../fonts/essential-set.woff?e8wy75') format('woff'),
+    url('../fonts/essential-set.svg?e8wy75#essential-set') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="essential-set-"], [class*=" essential-set-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'essential-set' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.essential-set-add:before {
+  content: "\e900";
+}
+.essential-set-add-1:before {
+  content: "\e901";
+}
+.essential-set-add-2:before {
+  content: "\e902";
+}
+.essential-set-add-3:before {
+  content: "\e903";
+}
+.essential-set-agenda:before {
+  content: "\e904";
+}
+.essential-set-alarm:before {
+  content: "\e905";
+}
+.essential-set-alarm-1:before {
+  content: "\e906";
+}
+.essential-set-alarm-clock:before {
+  content: "\e907";
+}
+.essential-set-alarm-clock-1:before {
+  content: "\e908";
+}
+.essential-set-albums:before {
+  content: "\e909";
+}
+.essential-set-app:before {
+  content: "\e90a";
+}
+.essential-set-archive:before {
+  content: "\e90b";
+}
+.essential-set-archive-1:before {
+  content: "\e90c";
+}
+.essential-set-archive-2:before {
+  content: "\e90d";
+}
+.essential-set-archive-3:before {
+  content: "\e90e";
+}
+.essential-set-attachment:before {
+  content: "\e90f";
+}
+.essential-set-back:before {
+  content: "\e910";
+}
+.essential-set-battery:before {
+  content: "\e911";
+}
+.essential-set-battery-1:before {
+  content: "\e912";
+}
+.essential-set-battery-2:before {
+  content: "\e913";
+}
+.essential-set-battery-3:before {
+  content: "\e914";
+}
+.essential-set-battery-4:before {
+  content: "\e915";
+}
+.essential-set-battery-5:before {
+  content: "\e916";
+}
+.essential-set-battery-6:before {
+  content: "\e917";
+}
+.essential-set-battery-7:before {
+  content: "\e918";
+}
+.essential-set-battery-8:before {
+  content: "\e919";
+}
+.essential-set-battery-9:before {
+  content: "\e91a";
+}
+.essential-set-binoculars:before {
+  content: "\e91b";
+}
+.essential-set-blueprint:before {
+  content: "\e91c";
+}
+.essential-set-bluetooth:before {
+  content: "\e91d";
+}
+.essential-set-bluetooth-1:before {
+  content: "\e91e";
+}
+.essential-set-bookmark:before {
+  content: "\e91f";
+}
+.essential-set-bookmark-1:before {
+  content: "\e920";
+}
+.essential-set-briefcase:before {
+  content: "\e921";
+}
+.essential-set-broken-link:before {
+  content: "\e922";
+}
+.essential-set-calculator:before {
+  content: "\e923";
+}
+.essential-set-calculator-1:before {
+  content: "\e924";
+}
+.essential-set-calendar:before {
+  content: "\e925";
+}
+.essential-set-calendar-1:before {
+  content: "\e926";
+}
+.essential-set-calendar-2:before {
+  content: "\e927";
+}
+.essential-set-calendar-3:before {
+  content: "\e928";
+}
+.essential-set-calendar-4:before {
+  content: "\e929";
+}
+.essential-set-calendar-5:before {
+  content: "\e92a";
+}
+.essential-set-calendar-6:before {
+  content: "\e92b";
+}
+.essential-set-calendar-7:before {
+  content: "\e92c";
+}
+.essential-set-checked:before {
+  content: "\e92d";
+}
+.essential-set-checked-1:before {
+  content: "\e92e";
+}
+.essential-set-clock:before {
+  content: "\e92f";
+}
+.essential-set-clock-1:before {
+  content: "\e930";
+}
+.essential-set-close:before {
+  content: "\e931";
+}
+.essential-set-cloud:before {
+  content: "\e932";
+}
+.essential-set-cloud-computing:before {
+  content: "\e933";
+}
+.essential-set-cloud-computing-1:before {
+  content: "\e934";
+}
+.essential-set-cloud-computing-2:before {
+  content: "\e935";
+}
+.essential-set-cloud-computing-3:before {
+  content: "\e936";
+}
+.essential-set-cloud-computing-4:before {
+  content: "\e937";
+}
+.essential-set-cloud-computing-5:before {
+  content: "\e938";
+}
+.essential-set-command:before {
+  content: "\e939";
+}
+.essential-set-compact-disc:before {
+  content: "\e93a";
+}
+.essential-set-compact-disc-1:before {
+  content: "\e93b";
+}
+.essential-set-compact-disc-2:before {
+  content: "\e93c";
+}
+.essential-set-compass:before {
+  content: "\e93d";
+}
+.essential-set-compose:before {
+  content: "\e93e";
+}
+.essential-set-controls:before {
+  content: "\e93f";
+}
+.essential-set-controls-1:before {
+  content: "\e940";
+}
+.essential-set-controls-2:before {
+  content: "\e941";
+}
+.essential-set-controls-3:before {
+  content: "\e942";
+}
+.essential-set-controls-4:before {
+  content: "\e943";
+}
+.essential-set-controls-5:before {
+  content: "\e944";
+}
+.essential-set-controls-6:before {
+  content: "\e945";
+}
+.essential-set-controls-7:before {
+  content: "\e946";
+}
+.essential-set-controls-8:before {
+  content: "\e947";
+}
+.essential-set-controls-9:before {
+  content: "\e948";
+}
+.essential-set-database:before {
+  content: "\e949";
+}
+.essential-set-database-1:before {
+  content: "\e94a";
+}
+.essential-set-database-2:before {
+  content: "\e94b";
+}
+.essential-set-database-3:before {
+  content: "\e94c";
+}
+.essential-set-diamond:before {
+  content: "\e94d";
+}
+.essential-set-diploma:before {
+  content: "\e94e";
+}
+.essential-set-dislike:before {
+  content: "\e94f";
+}
+.essential-set-dislike-1:before {
+  content: "\e950";
+}
+.essential-set-divide:before {
+  content: "\e951";
+}
+.essential-set-divide-1:before {
+  content: "\e952";
+}
+.essential-set-division:before {
+  content: "\e953";
+}
+.essential-set-document:before {
+  content: "\e954";
+}
+.essential-set-download:before {
+  content: "\e955";
+}
+.essential-set-edit:before {
+  content: "\e956";
+}
+.essential-set-edit-1:before {
+  content: "\e957";
+}
+.essential-set-eject:before {
+  content: "\e958";
+}
+.essential-set-eject-1:before {
+  content: "\e959";
+}
+.essential-set-equal:before {
+  content: "\e95a";
+}
+.essential-set-equal-1:before {
+  content: "\e95b";
+}
+.essential-set-equal-2:before {
+  content: "\e95c";
+}
+.essential-set-error:before {
+  content: "\e95d";
+}
+.essential-set-exit:before {
+  content: "\e95e";
+}
+.essential-set-exit-1:before {
+  content: "\e95f";
+}
+.essential-set-exit-2:before {
+  content: "\e960";
+}
+.essential-set-eyeglasses:before {
+  content: "\e961";
+}
+.essential-set-fast-forward:before {
+  content: "\e962";
+}
+.essential-set-fast-forward-1:before {
+  content: "\e963";
+}
+.essential-set-fax:before {
+  content: "\e964";
+}
+.essential-set-file:before {
+  content: "\e965";
+}
+.essential-set-file-1:before {
+  content: "\e966";
+}
+.essential-set-file-2:before {
+  content: "\e967";
+}
+.essential-set-film:before {
+  content: "\e968";
+}
+.essential-set-fingerprint:before {
+  content: "\e969";
+}
+.essential-set-flag:before {
+  content: "\e96a";
+}
+.essential-set-flag-1:before {
+  content: "\e96b";
+}
+.essential-set-flag-2:before {
+  content: "\e96c";
+}
+.essential-set-flag-3:before {
+  content: "\e96d";
+}
+.essential-set-flag-4:before {
+  content: "\e96e";
+}
+.essential-set-focus:before {
+  content: "\e96f";
+}
+.essential-set-folder:before {
+  content: "\e970";
+}
+.essential-set-folder-1:before {
+  content: "\e971";
+}
+.essential-set-folder-2:before {
+  content: "\e972";
+}
+.essential-set-folder-3:before {
+  content: "\e973";
+}
+.essential-set-folder-4:before {
+  content: "\e974";
+}
+.essential-set-folder-5:before {
+  content: "\e975";
+}
+.essential-set-folder-6:before {
+  content: "\e976";
+}
+.essential-set-folder-7:before {
+  content: "\e977";
+}
+.essential-set-folder-8:before {
+  content: "\e978";
+}
+.essential-set-folder-9:before {
+  content: "\e979";
+}
+.essential-set-folder-10:before {
+  content: "\e97a";
+}
+.essential-set-folder-11:before {
+  content: "\e97b";
+}
+.essential-set-folder-12:before {
+  content: "\e97c";
+}
+.essential-set-folder-13:before {
+  content: "\e97d";
+}
+.essential-set-folder-14:before {
+  content: "\e97e";
+}
+.essential-set-folder-15:before {
+  content: "\e97f";
+}
+.essential-set-folder-16:before {
+  content: "\e980";
+}
+.essential-set-folder-17:before {
+  content: "\e981";
+}
+.essential-set-folder-18:before {
+  content: "\e982";
+}
+.essential-set-folder-19:before {
+  content: "\e983";
+}
+.essential-set-forbidden:before {
+  content: "\e984";
+}
+.essential-set-funnel:before {
+  content: "\e985";
+}
+.essential-set-garbage:before {
+  content: "\e986";
+}
+.essential-set-garbage-1:before {
+  content: "\e987";
+}
+.essential-set-garbage-2:before {
+  content: "\e988";
+}
+.essential-set-gift:before {
+  content: "\e989";
+}
+.essential-set-help:before {
+  content: "\e98a";
+}
+.essential-set-hide:before {
+  content: "\e98b";
+}
+.essential-set-hold:before {
+  content: "\e98c";
+}
+.essential-set-home:before {
+  content: "\e98d";
+}
+.essential-set-home-1:before {
+  content: "\e98e";
+}
+.essential-set-home-2:before {
+  content: "\e98f";
+}
+.essential-set-hourglass:before {
+  content: "\e990";
+}
+.essential-set-hourglass-1:before {
+  content: "\e991";
+}
+.essential-set-hourglass-2:before {
+  content: "\e992";
+}
+.essential-set-hourglass-3:before {
+  content: "\e993";
+}
+.essential-set-house:before {
+  content: "\e994";
+}
+.essential-set-id-card:before {
+  content: "\e995";
+}
+.essential-set-id-card-1:before {
+  content: "\e996";
+}
+.essential-set-id-card-2:before {
+  content: "\e997";
+}
+.essential-set-id-card-3:before {
+  content: "\e998";
+}
+.essential-set-id-card-4:before {
+  content: "\e999";
+}
+.essential-set-id-card-5:before {
+  content: "\e99a";
+}
+.essential-set-idea:before {
+  content: "\e99b";
+}
+.essential-set-incoming:before {
+  content: "\e99c";
+}
+.essential-set-infinity:before {
+  content: "\e99d";
+}
+.essential-set-info:before {
+  content: "\e99e";
+}
+.essential-set-internet:before {
+  content: "\e99f";
+}
+.essential-set-key:before {
+  content: "\e9a0";
+}
+.essential-set-lamp:before {
+  content: "\e9a1";
+}
+.essential-set-layers:before {
+  content: "\e9a2";
+}
+.essential-set-layers-1:before {
+  content: "\e9a3";
+}
+.essential-set-like:before {
+  content: "\e9a4";
+}
+.essential-set-like-1:before {
+  content: "\e9a5";
+}
+.essential-set-like-2:before {
+  content: "\e9a6";
+}
+.essential-set-link:before {
+  content: "\e9a7";
+}
+.essential-set-list:before {
+  content: "\e9a8";
+}
+.essential-set-list-1:before {
+  content: "\e9a9";
+}
+.essential-set-lock:before {
+  content: "\e9aa";
+}
+.essential-set-lock-1:before {
+  content: "\e9ab";
+}
+.essential-set-locked:before {
+  content: "\e9ac";
+}
+.essential-set-locked-1:before {
+  content: "\e9ad";
+}
+.essential-set-locked-2:before {
+  content: "\e9ae";
+}
+.essential-set-locked-3:before {
+  content: "\e9af";
+}
+.essential-set-locked-4:before {
+  content: "\e9b0";
+}
+.essential-set-locked-5:before {
+  content: "\e9b1";
+}
+.essential-set-locked-6:before {
+  content: "\e9b2";
+}
+.essential-set-login:before {
+  content: "\e9b3";
+}
+.essential-set-magic-wand:before {
+  content: "\e9b4";
+}
+.essential-set-magnet:before {
+  content: "\e9b5";
+}
+.essential-set-magnet-1:before {
+  content: "\e9b6";
+}
+.essential-set-magnet-2:before {
+  content: "\e9b7";
+}
+.essential-set-map:before {
+  content: "\e9b8";
+}
+.essential-set-map-1:before {
+  content: "\e9b9";
+}
+.essential-set-map-2:before {
+  content: "\e9ba";
+}
+.essential-set-map-location:before {
+  content: "\e9bb";
+}
+.essential-set-megaphone:before {
+  content: "\e9bc";
+}
+.essential-set-megaphone-1:before {
+  content: "\e9bd";
+}
+.essential-set-menu:before {
+  content: "\e9be";
+}
+.essential-set-menu-1:before {
+  content: "\e9bf";
+}
+.essential-set-menu-2:before {
+  content: "\e9c0";
+}
+.essential-set-menu-3:before {
+  content: "\e9c1";
+}
+.essential-set-menu-4:before {
+  content: "\e9c2";
+}
+.essential-set-microphone:before {
+  content: "\e9c3";
+}
+.essential-set-microphone-1:before {
+  content: "\e9c4";
+}
+.essential-set-minus:before {
+  content: "\e9c5";
+}
+.essential-set-minus-1:before {
+  content: "\e9c6";
+}
+.essential-set-more:before {
+  content: "\e9c7";
+}
+.essential-set-more-1:before {
+  content: "\e9c8";
+}
+.essential-set-more-2:before {
+  content: "\e9c9";
+}
+.essential-set-multiply:before {
+  content: "\e9ca";
+}
+.essential-set-multiply-1:before {
+  content: "\e9cb";
+}
+.essential-set-music-player:before {
+  content: "\e9cc";
+}
+.essential-set-music-player-1:before {
+  content: "\e9cd";
+}
+.essential-set-music-player-2:before {
+  content: "\e9ce";
+}
+.essential-set-music-player-3:before {
+  content: "\e9cf";
+}
+.essential-set-mute:before {
+  content: "\e9d0";
+}
+.essential-set-muted:before {
+  content: "\e9d1";
+}
+.essential-set-navigation:before {
+  content: "\e9d2";
+}
+.essential-set-navigation-1:before {
+  content: "\e9d3";
+}
+.essential-set-network:before {
+  content: "\e9d4";
+}
+.essential-set-newspaper:before {
+  content: "\e9d5";
+}
+.essential-set-next:before {
+  content: "\e9d6";
+}
+.essential-set-note:before {
+  content: "\e9d7";
+}
+.essential-set-notebook:before {
+  content: "\e9d8";
+}
+.essential-set-notebook-1:before {
+  content: "\e9d9";
+}
+.essential-set-notebook-2:before {
+  content: "\e9da";
+}
+.essential-set-notebook-3:before {
+  content: "\e9db";
+}
+.essential-set-notebook-4:before {
+  content: "\e9dc";
+}
+.essential-set-notebook-5:before {
+  content: "\e9dd";
+}
+.essential-set-notepad:before {
+  content: "\e9de";
+}
+.essential-set-notepad-1:before {
+  content: "\e9df";
+}
+.essential-set-notepad-2:before {
+  content: "\e9e0";
+}
+.essential-set-notification:before {
+  content: "\e9e1";
+}
+.essential-set-paper-plane:before {
+  content: "\e9e2";
+}
+.essential-set-paper-plane-1:before {
+  content: "\e9e3";
+}
+.essential-set-pause:before {
+  content: "\e9e4";
+}
+.essential-set-pause-1:before {
+  content: "\e9e5";
+}
+.essential-set-percent:before {
+  content: "\e9e6";
+}
+.essential-set-percent-1:before {
+  content: "\e9e7";
+}
+.essential-set-perspective:before {
+  content: "\e9e8";
+}
+.essential-set-photo-camera:before {
+  content: "\e9e9";
+}
+.essential-set-photo-camera-1:before {
+  content: "\e9ea";
+}
+.essential-set-photos:before {
+  content: "\e9eb";
+}
+.essential-set-picture:before {
+  content: "\e9ec";
+}
+.essential-set-picture-1:before {
+  content: "\e9ed";
+}
+.essential-set-picture-2:before {
+  content: "\e9ee";
+}
+.essential-set-pin:before {
+  content: "\e9ef";
+}
+.essential-set-placeholder:before {
+  content: "\e9f0";
+}
+.essential-set-placeholder-1:before {
+  content: "\e9f1";
+}
+.essential-set-placeholder-2:before {
+  content: "\e9f2";
+}
+.essential-set-placeholder-3:before {
+  content: "\e9f3";
+}
+.essential-set-placeholders:before {
+  content: "\e9f4";
+}
+.essential-set-play-button:before {
+  content: "\e9f5";
+}
+.essential-set-play-button-1:before {
+  content: "\e9f6";
+}
+.essential-set-plus:before {
+  content: "\e9f7";
+}
+.essential-set-power:before {
+  content: "\e9f8";
+}
+.essential-set-previous:before {
+  content: "\e9f9";
+}
+.essential-set-price-tag:before {
+  content: "\e9fa";
+}
+.essential-set-print:before {
+  content: "\e9fb";
+}
+.essential-set-push-pin:before {
+  content: "\e9fc";
+}
+.essential-set-radar:before {
+  content: "\e9fd";
+}
+.essential-set-reading:before {
+  content: "\e9fe";
+}
+.essential-set-record:before {
+  content: "\e9ff";
+}
+.essential-set-repeat:before {
+  content: "\ea00";
+}
+.essential-set-repeat-1:before {
+  content: "\ea01";
+}
+.essential-set-restart:before {
+  content: "\ea02";
+}
+.essential-set-resume:before {
+  content: "\ea03";
+}
+.essential-set-rewind:before {
+  content: "\ea04";
+}
+.essential-set-rewind-1:before {
+  content: "\ea05";
+}
+.essential-set-route:before {
+  content: "\ea06";
+}
+.essential-set-save:before {
+  content: "\ea07";
+}
+.essential-set-search:before {
+  content: "\ea08";
+}
+.essential-set-search-1:before {
+  content: "\ea09";
+}
+.essential-set-send:before {
+  content: "\ea0a";
+}
+.essential-set-server:before {
+  content: "\ea0b";
+}
+.essential-set-server-1:before {
+  content: "\ea0c";
+}
+.essential-set-server-2:before {
+  content: "\ea0d";
+}
+.essential-set-server-3:before {
+  content: "\ea0e";
+}
+.essential-set-settings:before {
+  content: "\ea0f";
+}
+.essential-set-settings-1:before {
+  content: "\ea10";
+}
+.essential-set-settings-2:before {
+  content: "\ea11";
+}
+.essential-set-settings-3:before {
+  content: "\ea12";
+}
+.essential-set-settings-4:before {
+  content: "\ea13";
+}
+.essential-set-settings-5:before {
+  content: "\ea14";
+}
+.essential-set-settings-6:before {
+  content: "\ea15";
+}
+.essential-set-settings-7:before {
+  content: "\ea16";
+}
+.essential-set-settings-8:before {
+  content: "\ea17";
+}
+.essential-set-settings-9:before {
+  content: "\ea18";
+}
+.essential-set-share:before {
+  content: "\ea19";
+}
+.essential-set-share-1:before {
+  content: "\ea1a";
+}
+.essential-set-share-2:before {
+  content: "\ea1b";
+}
+.essential-set-shuffle:before {
+  content: "\ea1c";
+}
+.essential-set-shuffle-1:before {
+  content: "\ea1d";
+}
+.essential-set-shutdown:before {
+  content: "\ea1e";
+}
+.essential-set-sign:before {
+  content: "\ea1f";
+}
+.essential-set-sign-1:before {
+  content: "\ea20";
+}
+.essential-set-skip:before {
+  content: "\ea21";
+}
+.essential-set-smartphone:before {
+  content: "\ea22";
+}
+.essential-set-smartphone-1:before {
+  content: "\ea23";
+}
+.essential-set-smartphone-2:before {
+  content: "\ea24";
+}
+.essential-set-smartphone-3:before {
+  content: "\ea25";
+}
+.essential-set-smartphone-4:before {
+  content: "\ea26";
+}
+.essential-set-smartphone-5:before {
+  content: "\ea27";
+}
+.essential-set-smartphone-6:before {
+  content: "\ea28";
+}
+.essential-set-smartphone-7:before {
+  content: "\ea29";
+}
+.essential-set-smartphone-8:before {
+  content: "\ea2a";
+}
+.essential-set-smartphone-9:before {
+  content: "\ea2b";
+}
+.essential-set-smartphone-10:before {
+  content: "\ea2c";
+}
+.essential-set-smartphone-11:before {
+  content: "\ea2d";
+}
+.essential-set-speaker:before {
+  content: "\ea2e";
+}
+.essential-set-speaker-1:before {
+  content: "\ea2f";
+}
+.essential-set-speaker-2:before {
+  content: "\ea30";
+}
+.essential-set-speaker-3:before {
+  content: "\ea31";
+}
+.essential-set-speaker-4:before {
+  content: "\ea32";
+}
+.essential-set-speaker-5:before {
+  content: "\ea33";
+}
+.essential-set-speaker-6:before {
+  content: "\ea34";
+}
+.essential-set-speaker-7:before {
+  content: "\ea35";
+}
+.essential-set-speaker-8:before {
+  content: "\ea36";
+}
+.essential-set-spotlight:before {
+  content: "\ea37";
+}
+.essential-set-star:before {
+  content: "\ea38";
+}
+.essential-set-star-1:before {
+  content: "\ea39";
+}
+.essential-set-stop:before {
+  content: "\ea3a";
+}
+.essential-set-stop-1:before {
+  content: "\ea3b";
+}
+.essential-set-stopwatch:before {
+  content: "\ea3c";
+}
+.essential-set-stopwatch-1:before {
+  content: "\ea3d";
+}
+.essential-set-stopwatch-2:before {
+  content: "\ea3e";
+}
+.essential-set-stopwatch-3:before {
+  content: "\ea3f";
+}
+.essential-set-stopwatch-4:before {
+  content: "\ea40";
+}
+.essential-set-street:before {
+  content: "\ea41";
+}
+.essential-set-street-1:before {
+  content: "\ea42";
+}
+.essential-set-substract:before {
+  content: "\ea43";
+}
+.essential-set-substract-1:before {
+  content: "\ea44";
+}
+.essential-set-success:before {
+  content: "\ea45";
+}
+.essential-set-switch:before {
+  content: "\ea46";
+}
+.essential-set-switch-1:before {
+  content: "\ea47";
+}
+.essential-set-switch-2:before {
+  content: "\ea48";
+}
+.essential-set-switch-3:before {
+  content: "\ea49";
+}
+.essential-set-switch-4:before {
+  content: "\ea4a";
+}
+.essential-set-switch-5:before {
+  content: "\ea4b";
+}
+.essential-set-switch-6:before {
+  content: "\ea4c";
+}
+.essential-set-switch-7:before {
+  content: "\ea4d";
+}
+.essential-set-tabs:before {
+  content: "\ea4e";
+}
+.essential-set-tabs-1:before {
+  content: "\ea4f";
+}
+.essential-set-target:before {
+  content: "\ea50";
+}
+.essential-set-television:before {
+  content: "\ea51";
+}
+.essential-set-television-1:before {
+  content: "\ea52";
+}
+.essential-set-time:before {
+  content: "\ea53";
+}
+.essential-set-trash:before {
+  content: "\ea54";
+}
+.essential-set-umbrella:before {
+  content: "\ea55";
+}
+.essential-set-unlink:before {
+  content: "\ea56";
+}
+.essential-set-unlocked:before {
+  content: "\ea57";
+}
+.essential-set-unlocked-1:before {
+  content: "\ea58";
+}
+.essential-set-unlocked-2:before {
+  content: "\ea59";
+}
+.essential-set-upload:before {
+  content: "\ea5a";
+}
+.essential-set-user:before {
+  content: "\ea5b";
+}
+.essential-set-user-1:before {
+  content: "\ea5c";
+}
+.essential-set-user-2:before {
+  content: "\ea5d";
+}
+.essential-set-user-3:before {
+  content: "\ea5e";
+}
+.essential-set-user-4:before {
+  content: "\ea5f";
+}
+.essential-set-user-5:before {
+  content: "\ea60";
+}
+.essential-set-user-6:before {
+  content: "\ea61";
+}
+.essential-set-user-7:before {
+  content: "\ea62";
+}
+.essential-set-users:before {
+  content: "\ea63";
+}
+.essential-set-users-1:before {
+  content: "\ea64";
+}
+.essential-set-video-camera:before {
+  content: "\ea65";
+}
+.essential-set-video-camera-1:before {
+  content: "\ea66";
+}
+.essential-set-video-player:before {
+  content: "\ea67";
+}
+.essential-set-video-player-1:before {
+  content: "\ea68";
+}
+.essential-set-video-player-2:before {
+  content: "\ea69";
+}
+.essential-set-view:before {
+  content: "\ea6a";
+}
+.essential-set-view-1:before {
+  content: "\ea6b";
+}
+.essential-set-view-2:before {
+  content: "\ea6c";
+}
+.essential-set-volume-control:before {
+  content: "\ea6d";
+}
+.essential-set-volume-control-1:before {
+  content: "\ea6e";
+}
+.essential-set-warning:before {
+  content: "\ea6f";
+}
+.essential-set-wifi:before {
+  content: "\ea70";
+}
+.essential-set-wifi-1:before {
+  content: "\ea71";
+}
+.essential-set-windows:before {
+  content: "\ea72";
+}
+.essential-set-windows-1:before {
+  content: "\ea73";
+}
+.essential-set-windows-2:before {
+  content: "\ea74";
+}
+.essential-set-windows-3:before {
+  content: "\ea75";
+}
+.essential-set-windows-4:before {
+  content: "\ea76";
+}
+.essential-set-wireless-internet:before {
+  content: "\ea77";
+}
+.essential-set-worldwide:before {
+  content: "\ea78";
+}
+.essential-set-worldwide-1:before {
+  content: "\ea79";
+}
+.essential-set-zoom-in:before {
+  content: "\ea7a";
+}
+.essential-set-zoom-out:before {
+  content: "\ea7b";
+}
+
+
+@font-face {
+  font-family: 'bold-outline-medical-elements';
+  src:  url('../fonts/bold-outline-medical-elements.eot?eed91u');
+  src:  url('../fonts/bold-outline-medical-elements.eot?eed91u#iefix') format('embedded-opentype'),
+    url('../fonts/bold-outline-medical-elements.ttf?eed91u') format('truetype'),
+    url('../fonts/bold-outline-medical-elements.woff?eed91u') format('woff'),
+    url('../fonts/bold-outline-medical-elements.svg?eed91u#bold-outline-medical-elements') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="bold-outline-medical-elements-"], [class*=" bold-outline-medical-elements-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bold-outline-medical-elements' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bold-outline-medical-elements-add-button:before {
+  content: "\e900";
+}
+.bold-outline-medical-elements-ambulance:before {
+  content: "\e901";
+}
+.bold-outline-medical-elements-ambulance-1:before {
+  content: "\e902";
+}
+.bold-outline-medical-elements-ambulance-2:before {
+  content: "\e903";
+}
+.bold-outline-medical-elements-asterisk:before {
+  content: "\e904";
+}
+.bold-outline-medical-elements-atomic:before {
+  content: "\e905";
+}
+.bold-outline-medical-elements-bandage:before {
+  content: "\e906";
+}
+.bold-outline-medical-elements-bandage-1:before {
+  content: "\e907";
+}
+.bold-outline-medical-elements-bed:before {
+  content: "\e908";
+}
+.bold-outline-medical-elements-bed-1:before {
+  content: "\e909";
+}
+.bold-outline-medical-elements-bell:before {
+  content: "\e90a";
+}
+.bold-outline-medical-elements-blood:before {
+  content: "\e90b";
+}
+.bold-outline-medical-elements-blood-1:before {
+  content: "\e90c";
+}
+.bold-outline-medical-elements-bone:before {
+  content: "\e90d";
+}
+.bold-outline-medical-elements-bones:before {
+  content: "\e90e";
+}
+.bold-outline-medical-elements-book:before {
+  content: "\e90f";
+}
+.bold-outline-medical-elements-book-1:before {
+  content: "\e910";
+}
+.bold-outline-medical-elements-book-2:before {
+  content: "\e911";
+}
+.bold-outline-medical-elements-bottle:before {
+  content: "\e912";
+}
+.bold-outline-medical-elements-bottle-1:before {
+  content: "\e913";
+}
+.bold-outline-medical-elements-bottle-2:before {
+  content: "\e914";
+}
+.bold-outline-medical-elements-bottle-3:before {
+  content: "\e915";
+}
+.bold-outline-medical-elements-bowl:before {
+  content: "\e916";
+}
+.bold-outline-medical-elements-briefcase:before {
+  content: "\e917";
+}
+.bold-outline-medical-elements-cardiogram:before {
+  content: "\e918";
+}
+.bold-outline-medical-elements-cardiogram-1:before {
+  content: "\e919";
+}
+.bold-outline-medical-elements-cardiogram-2:before {
+  content: "\e91a";
+}
+.bold-outline-medical-elements-cart:before {
+  content: "\e91b";
+}
+.bold-outline-medical-elements-cart-1:before {
+  content: "\e91c";
+}
+.bold-outline-medical-elements-chemical:before {
+  content: "\e91d";
+}
+.bold-outline-medical-elements-chemical-1:before {
+  content: "\e91e";
+}
+.bold-outline-medical-elements-chemistry:before {
+  content: "\e91f";
+}
+.bold-outline-medical-elements-clinic:before {
+  content: "\e920";
+}
+.bold-outline-medical-elements-comb:before {
+  content: "\e921";
+}
+.bold-outline-medical-elements-computer:before {
+  content: "\e922";
+}
+.bold-outline-medical-elements-computer-mouse:before {
+  content: "\e923";
+}
+.bold-outline-medical-elements-dna:before {
+  content: "\e924";
+}
+.bold-outline-medical-elements-doctor:before {
+  content: "\e925";
+}
+.bold-outline-medical-elements-doctor-1:before {
+  content: "\e926";
+}
+.bold-outline-medical-elements-dropper:before {
+  content: "\e927";
+}
+.bold-outline-medical-elements-extinguisher:before {
+  content: "\e928";
+}
+.bold-outline-medical-elements-eye:before {
+  content: "\e929";
+}
+.bold-outline-medical-elements-eye-1:before {
+  content: "\e92a";
+}
+.bold-outline-medical-elements-eyeglasses:before {
+  content: "\e92b";
+}
+.bold-outline-medical-elements-eyeglasses-1:before {
+  content: "\e92c";
+}
+.bold-outline-medical-elements-first-aid-bag:before {
+  content: "\e92d";
+}
+.bold-outline-medical-elements-first-aid-handbag:before {
+  content: "\e92e";
+}
+.bold-outline-medical-elements-first-aid-kit:before {
+  content: "\e92f";
+}
+.bold-outline-medical-elements-first-aid-kit-1:before {
+  content: "\e930";
+}
+.bold-outline-medical-elements-first-aid-kit-2:before {
+  content: "\e931";
+}
+.bold-outline-medical-elements-first-aid-kit-3:before {
+  content: "\e932";
+}
+.bold-outline-medical-elements-flask:before {
+  content: "\e933";
+}
+.bold-outline-medical-elements-flask-1:before {
+  content: "\e934";
+}
+.bold-outline-medical-elements-flask-2:before {
+  content: "\e935";
+}
+.bold-outline-medical-elements-health-care:before {
+  content: "\e936";
+}
+.bold-outline-medical-elements-heart:before {
+  content: "\e937";
+}
+.bold-outline-medical-elements-heart-1:before {
+  content: "\e938";
+}
+.bold-outline-medical-elements-heart-2:before {
+  content: "\e939";
+}
+.bold-outline-medical-elements-helicopter:before {
+  content: "\e93a";
+}
+.bold-outline-medical-elements-hospital:before {
+  content: "\e93b";
+}
+.bold-outline-medical-elements-hospital-1:before {
+  content: "\e93c";
+}
+.bold-outline-medical-elements-hospital-2:before {
+  content: "\e93d";
+}
+.bold-outline-medical-elements-hospital-3:before {
+  content: "\e93e";
+}
+.bold-outline-medical-elements-hospital-4:before {
+  content: "\e93f";
+}
+.bold-outline-medical-elements-hourglass:before {
+  content: "\e940";
+}
+.bold-outline-medical-elements-kidney:before {
+  content: "\e941";
+}
+.bold-outline-medical-elements-list:before {
+  content: "\e942";
+}
+.bold-outline-medical-elements-list-1:before {
+  content: "\e943";
+}
+.bold-outline-medical-elements-loupe:before {
+  content: "\e944";
+}
+.bold-outline-medical-elements-lungs:before {
+  content: "\e945";
+}
+.bold-outline-medical-elements-magnifying-glass:before {
+  content: "\e946";
+}
+.bold-outline-medical-elements-man:before {
+  content: "\e947";
+}
+.bold-outline-medical-elements-medication:before {
+  content: "\e948";
+}
+.bold-outline-medical-elements-medication-1:before {
+  content: "\e949";
+}
+.bold-outline-medical-elements-medicine:before {
+  content: "\e94a";
+}
+.bold-outline-medical-elements-medicine-1:before {
+  content: "\e94b";
+}
+.bold-outline-medical-elements-medicine-2:before {
+  content: "\e94c";
+}
+.bold-outline-medical-elements-medicine-3:before {
+  content: "\e94d";
+}
+.bold-outline-medical-elements-medicine-4:before {
+  content: "\e94e";
+}
+.bold-outline-medical-elements-medicine-5:before {
+  content: "\e94f";
+}
+.bold-outline-medical-elements-medicines:before {
+  content: "\e950";
+}
+.bold-outline-medical-elements-medicines-1:before {
+  content: "\e951";
+}
+.bold-outline-medical-elements-microscope:before {
+  content: "\e952";
+}
+.bold-outline-medical-elements-microscope-1:before {
+  content: "\e953";
+}
+.bold-outline-medical-elements-microscope-2:before {
+  content: "\e954";
+}
+.bold-outline-medical-elements-molecular:before {
+  content: "\e955";
+}
+.bold-outline-medical-elements-molecule:before {
+  content: "\e956";
+}
+.bold-outline-medical-elements-molecule-1:before {
+  content: "\e957";
+}
+.bold-outline-medical-elements-notepad:before {
+  content: "\e958";
+}
+.bold-outline-medical-elements-nuclear:before {
+  content: "\e959";
+}
+.bold-outline-medical-elements-nurse:before {
+  content: "\e95a";
+}
+.bold-outline-medical-elements-padnote:before {
+  content: "\e95b";
+}
+.bold-outline-medical-elements-pharmacy:before {
+  content: "\e95c";
+}
+.bold-outline-medical-elements-pharmacy-1:before {
+  content: "\e95d";
+}
+.bold-outline-medical-elements-phonendoscope:before {
+  content: "\e95e";
+}
+.bold-outline-medical-elements-phonendoscope-1:before {
+  content: "\e95f";
+}
+.bold-outline-medical-elements-pill:before {
+  content: "\e960";
+}
+.bold-outline-medical-elements-pill-1:before {
+  content: "\e961";
+}
+.bold-outline-medical-elements-pills:before {
+  content: "\e962";
+}
+.bold-outline-medical-elements-pills-1:before {
+  content: "\e963";
+}
+.bold-outline-medical-elements-prescription:before {
+  content: "\e964";
+}
+.bold-outline-medical-elements-report:before {
+  content: "\e965";
+}
+.bold-outline-medical-elements-report-1:before {
+  content: "\e966";
+}
+.bold-outline-medical-elements-ribbon:before {
+  content: "\e967";
+}
+.bold-outline-medical-elements-saline:before {
+  content: "\e968";
+}
+.bold-outline-medical-elements-saline-1:before {
+  content: "\e969";
+}
+.bold-outline-medical-elements-scissors:before {
+  content: "\e96a";
+}
+.bold-outline-medical-elements-screen:before {
+  content: "\e96b";
+}
+.bold-outline-medical-elements-shield:before {
+  content: "\e96c";
+}
+.bold-outline-medical-elements-sign:before {
+  content: "\e96d";
+}
+.bold-outline-medical-elements-stats:before {
+  content: "\e96e";
+}
+.bold-outline-medical-elements-stethoscope:before {
+  content: "\e96f";
+}
+.bold-outline-medical-elements-stretcher:before {
+  content: "\e970";
+}
+.bold-outline-medical-elements-stretcher-1:before {
+  content: "\e971";
+}
+.bold-outline-medical-elements-stretcher-2:before {
+  content: "\e972";
+}
+.bold-outline-medical-elements-stretcher-3:before {
+  content: "\e973";
+}
+.bold-outline-medical-elements-stretcher-4:before {
+  content: "\e974";
+}
+.bold-outline-medical-elements-strip:before {
+  content: "\e975";
+}
+.bold-outline-medical-elements-syringe:before {
+  content: "\e976";
+}
+.bold-outline-medical-elements-syringe-1:before {
+  content: "\e977";
+}
+.bold-outline-medical-elements-syringe-2:before {
+  content: "\e978";
+}
+.bold-outline-medical-elements-syringe-3:before {
+  content: "\e979";
+}
+.bold-outline-medical-elements-syringe-4:before {
+  content: "\e97a";
+}
+.bold-outline-medical-elements-syringe-5:before {
+  content: "\e97b";
+}
+.bold-outline-medical-elements-syringe-6:before {
+  content: "\e97c";
+}
+.bold-outline-medical-elements-syringe-7:before {
+  content: "\e97d";
+}
+.bold-outline-medical-elements-tablet:before {
+  content: "\e97e";
+}
+.bold-outline-medical-elements-tablet-1:before {
+  content: "\e97f";
+}
+.bold-outline-medical-elements-tablet-2:before {
+  content: "\e980";
+}
+.bold-outline-medical-elements-tablet-3:before {
+  content: "\e981";
+}
+.bold-outline-medical-elements-test-tube:before {
+  content: "\e982";
+}
+.bold-outline-medical-elements-test-tube-1:before {
+  content: "\e983";
+}
+.bold-outline-medical-elements-test-tube-2:before {
+  content: "\e984";
+}
+.bold-outline-medical-elements-test-tube-3:before {
+  content: "\e985";
+}
+.bold-outline-medical-elements-test-tube-4:before {
+  content: "\e986";
+}
+.bold-outline-medical-elements-test-tube-5:before {
+  content: "\e987";
+}
+.bold-outline-medical-elements-test-tube-6:before {
+  content: "\e988";
+}
+.bold-outline-medical-elements-test-tubes:before {
+  content: "\e989";
+}
+.bold-outline-medical-elements-thermometer:before {
+  content: "\e98a";
+}
+.bold-outline-medical-elements-thermometer-1:before {
+  content: "\e98b";
+}
+.bold-outline-medical-elements-thermometer-2:before {
+  content: "\e98c";
+}
+.bold-outline-medical-elements-thermometer-3:before {
+  content: "\e98d";
+}
+.bold-outline-medical-elements-thermometer-4:before {
+  content: "\e98e";
+}
+.bold-outline-medical-elements-tooth:before {
+  content: "\e98f";
+}
+.bold-outline-medical-elements-wheelchair:before {
+  content: "\e990";
+}
+.bold-outline-medical-elements-wheel-chair:before {
+  content: "\e991";
+}
+.bold-outline-medical-elements-wheelchair-1:before {
+  content: "\e992";
+}
+.bold-outline-medical-elements-wheelchair-2:before {
+  content: "\e993";
+}
+.bold-outline-medical-elements-woman:before {
+  content: "\e994";
+}
+.bold-outline-medical-elements-x-rays:before {
+  content: "\e995";
+}
